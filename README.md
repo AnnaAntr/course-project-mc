@@ -15,8 +15,8 @@
 * По нажатию на кнопку `week_info` отображается минимальная и максимальная температура за неделю. При отсутствии данных отображается `-`.
 
 ## Скриншоты симуляции
-![general](docs/img/general.png)
-![general](docs/img/min_max.png)
+![general](doc/img/general.png)
+![min_max](doc/img/min_max.png)
 
 ## Структура репозитория
     /
